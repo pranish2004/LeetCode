@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pranish2004/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/pranish2004/LeetCode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/pranish2004/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
