@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/pranish2004/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/pranish2004/LeetCode/tree/master/0043-multiply-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pranish2004/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/pranish2004/LeetCode/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/pranish2004/LeetCode/tree/master/3221-find-the-peaks) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pranish2004/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
