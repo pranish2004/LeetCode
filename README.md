@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/pranish2004/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/pranish2004/LeetCode/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/pranish2004/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/pranish2004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pranish2004/LeetCode/tree/master/0216-combination-sum-iii) |
