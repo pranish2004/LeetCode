@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranish2004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pranish2004/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0735-asteroid-collision](https://github.com/pranish2004/LeetCode/tree/master/0735-asteroid-collision) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pranish2004/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pranish2004/LeetCode/tree/master/0043-multiply-strings) |
+| [0735-asteroid-collision](https://github.com/pranish2004/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/pranish2004/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Backtracking
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/pranish2004/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
