@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pranish2004/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pranish2004/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/pranish2004/LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/pranish2004/LeetCode/tree/master/0053-maximum-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pranish2004/LeetCode/tree/master/0037-sudoku-solver) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -69,10 +71,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pranish2004/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pranish2004/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/pranish2004/LeetCode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/pranish2004/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/pranish2004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pranish2004/LeetCode/tree/master/0216-combination-sum-iii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pranish2004/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
