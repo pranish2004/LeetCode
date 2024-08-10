@@ -18,19 +18,20 @@ class Solution {
        List<Integer>min=new ArrayList<>();
         int index=0;
         rec(index,n,min,ans,nums);
-        int outcome = 0;
-        for (List<Integer> out : ans) {
-            int m = out.size();
-            if (m == 0) {
-                continue;
-            }
-            int y = out.get(0);
-            for (int i = 1; i < m; i++) {
-                y ^= out.get(i);
-            }
-            outcome += y;
+        int outcome=0;
+     for(List<Integer>out:ans){
+        int m=out.size();
+        if(m==0){
+           continue;
         }
-        return outcome;
+        else{
+            int y=out.get(0);
+        for(int i=1;i<m;i++){
+              y=y^out.get(i);
+        }
+        outcome+=y;
+        }
+     }
+     return outcome;
     }
-    
 }
