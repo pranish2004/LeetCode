@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pranish2004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pranish2004/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3221-find-the-peaks](https://github.com/pranish2004/LeetCode/tree/master/3221-find-the-peaks) |
 ## Divide and Conquer
@@ -54,15 +55,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pranish2004/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/pranish2004/LeetCode/tree/master/0043-multiply-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pranish2004/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/pranish2004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3221-find-the-peaks](https://github.com/pranish2004/LeetCode/tree/master/3221-find-the-peaks) |
 ## Simulation
 |  |
@@ -78,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranish2004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pranish2004/LeetCode/tree/master/0216-combination-sum-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pranish2004/LeetCode/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
