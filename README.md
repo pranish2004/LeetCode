@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pranish2004/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/pranish2004/LeetCode/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/pranish2004/LeetCode/tree/master/0060-permutation-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pranish2004/LeetCode/tree/master/0735-asteroid-collision) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/pranish2004/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
