@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/pranish2004/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/pranish2004/LeetCode/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/pranish2004/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Array
 |  |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pranish2004/LeetCode/tree/master/0037-sudoku-solver) |
+| [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/pranish2004/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pranish2004/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
@@ -113,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/pranish2004/LeetCode/tree/master/0060-permutation-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
