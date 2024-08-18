@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/pranish2004/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0216-combination-sum-iii](https://github.com/pranish2004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0735-asteroid-collision](https://github.com/pranish2004/LeetCode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/pranish2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pranish2004/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1835-decode-xored-permutation](https://github.com/pranish2004/LeetCode/tree/master/1835-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranish2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/pranish2004/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/pranish2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
