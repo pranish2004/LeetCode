@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pranish2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/pranish2004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/pranish2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0890-lemonade-change](https://github.com/pranish2004/LeetCode/tree/master/0890-lemonade-change) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pranish2004/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1835-decode-xored-permutation](https://github.com/pranish2004/LeetCode/tree/master/1835-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/pranish2004/LeetCode/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/pranish2004/LeetCode/tree/master/0890-lemonade-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
