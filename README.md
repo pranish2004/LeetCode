@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/pranish2004/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pranish2004/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
 | [1835-decode-xored-permutation](https://github.com/pranish2004/LeetCode/tree/master/1835-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pranish2004/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/pranish2004/LeetCode/tree/master/0060-permutation-sequence) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pranish2004/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
