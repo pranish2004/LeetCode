@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pranish2004/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pranish2004/LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/pranish2004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/pranish2004/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/pranish2004/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranish2004/LeetCode/tree/master/0090-subsets-ii) |
 | [0149-max-points-on-a-line](https://github.com/pranish2004/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranish2004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/pranish2004/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/pranish2004/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0747-min-cost-climbing-stairs](https://github.com/pranish2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pranish2004/LeetCode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/pranish2004/LeetCode/tree/master/0064-minimum-path-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/pranish2004/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Combinatorics
 |  |
