@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/pranish2004/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/pranish2004/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3221-find-the-peaks](https://github.com/pranish2004/LeetCode/tree/master/3221-find-the-peaks) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pranish2004/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/pranish2004/LeetCode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/pranish2004/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pranish2004/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pranish2004/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
