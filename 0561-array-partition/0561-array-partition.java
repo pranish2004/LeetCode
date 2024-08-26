@@ -4,8 +4,7 @@ class Solution {
         int n=nums.length;
         int count=0;
         for(int i=0;i<n-1;i=i+2){
-           int min=Math.min(nums[i],nums[i+1]);
-           count+=min;
+           count+=nums[i];
         }
         return count;
     }
