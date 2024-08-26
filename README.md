@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/pranish2004/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0216-combination-sum-iii](https://github.com/pranish2004/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/pranish2004/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/pranish2004/LeetCode/tree/master/0561-array-partition) |
 | [0735-asteroid-collision](https://github.com/pranish2004/LeetCode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/pranish2004/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/pranish2004/LeetCode/tree/master/0890-lemonade-change) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pranish2004/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/pranish2004/LeetCode/tree/master/0561-array-partition) |
 | [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pranish2004/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pranish2004/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/pranish2004/LeetCode/tree/master/0561-array-partition) |
 | [0778-reorganize-string](https://github.com/pranish2004/LeetCode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/pranish2004/LeetCode/tree/master/0890-lemonade-change) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/pranish2004/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/pranish2004/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pranish2004/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
